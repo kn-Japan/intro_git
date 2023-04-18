@@ -2,3 +2,4 @@ github_training
 gitadd git commit
 git remove
 git .
+git --
